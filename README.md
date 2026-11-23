@@ -16,3 +16,6 @@
 - [Reducing AWS Key Management Service costs by up to 99% with Amazon S3 Bucket Keys](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
 - [Query any data source with Amazon Athena’s new federated query](https://aws.amazon.com/blogs/big-data/query-any-data-source-with-amazon-athenas-new-federated-query/)
 - Athena: [Available data source connectors](https://docs.aws.amazon.com/athena/latest/ug/connectors-available.html)
+- [Methods for fine-grained access control](https://docs.aws.amazon.com/lake-formation/latest/dg/access-control-fine-grained.html)
+- [Lake Formation personas and IAM permissions reference](https://docs.aws.amazon.com/lake-formation/latest/dg/permissions-reference.html)
+Gerencia de permissões no Lake Formation: [AWS Lake Formation: How it works](https://docs.aws.amazon.com/lake-formation/latest/dg/how-it-works.html)
