@@ -11,3 +11,8 @@
 - [AWS Snow device updates](https://aws.amazon.com/blogs/storage/aws-snow-device-updates/), familia Snow indisponivel desde de novembro de 2025
 - [Database Migration Step-by-Step Walkthroughs](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
 - [Classificadores embarcados no Glue](https://docs.aws.amazon.com/glue/latest/dg/add-classifier.html)
+- [Protecting data in transit with encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingEncryptionInTransit.html)
+- [Advanced notice: Amazon S3 to disable the use of SSE-C encryption by default for all new buckets and select existing buckets in April 2026](https://aws.amazon.com/blogs/storage/advanced-notice-amazon-s3-to-disable-the-use-of-sse-c-encryption-by-default-for-all-new-buckets-and-select-existing-buckets-in-april-2026/)
+- [Reducing AWS Key Management Service costs by up to 99% with Amazon S3 Bucket Keys](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
+- [Query any data source with Amazon Athena’s new federated query](https://aws.amazon.com/blogs/big-data/query-any-data-source-with-amazon-athenas-new-federated-query/)
+- Athena: [Available data source connectors](https://docs.aws.amazon.com/athena/latest/ug/connectors-available.html)
