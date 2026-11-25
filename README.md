@@ -2,6 +2,7 @@
 
 ## Acesso ao laboratorio, pesquisa de satisfação e materiais
 - [Acesso ao lab e materiais](https://us-east-1.student.classrooms.aws.training/class/ilt%23aZZUtzFVjLbFxkbhRK9qrB)
+- Avaliação, no [myclass](https://myclass.skillbuider.aws), na seção de "Past classes"
 ## Links do curso
 ### Dia 1 
 - [The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/), fala de Azure, mas se aplica exatamente da mesma forma para AWS, troque ADLS Gen2 por S3.
@@ -37,3 +38,13 @@ Gerencia de permissões no Lake Formation: [AWS Lake Formation: How it works](ht
 - [Redshift e PostgreSQL](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html)
 - [Build Your Data Lake on Amazon S3 - AWS Online Tech Talk](https://www.youtube.com/watch?v=ccIBYUjnt74) - Video de 2019, antes da existencia do Lake Formation
 - **S3 Select**, servico atualmente indisponivel. Ainda assim, vale conhecer isto: [Querying data without servers or databases using Amazon S3 Select](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)
+- [Detect, mask, and redact PII data using AWS Glue before loading into Amazon OpenSearch Service](https://aws.amazon.com/blogs/big-data/detect-mask-and-redact-pii-data-using-aws-glue-before-loading-into-amazon-opensearch-service/)
+- [Validating data quality in AWS Glue DataBrew](https://docs.aws.amazon.com/databrew/latest/dg/profile.data-quality-rules.html)
+- Apenas para destacar que há outros servicos visuais de transformacao de dados. Neste caso, Data Wrangler, que pertence ao Sagemaker AI: [Introducing Amazon SageMaker Data Wrangler’s new embedded visualizations](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/)
+- Identificadores de dados gerenciados (tipos que o Macie é capaz de identificar) do Macie[Detailed reference: Managed data identifiers by category](https://docs.aws.amazon.com/macie/latest/user/mdis-reference.html)
+- [Detecting PII entities](https://docs.aws.amazon.com/comprehend/latest/dg/how-pii.html)
+- [Introducing AWS Glue 6.0 for faster and more cost-effective data integration](https://aws.amazon.com/blogs/big-data/introducing-aws-glue-6-0-for-apache-spark/)
+- [Referencia de permissoes do Lake Formation](https://docs.aws.amazon.com/lake-formation/latest/dg/lf-permissions-reference.html)
+- [Blueprints e workflows no lake formation](https://docs.aws.amazon.com/lake-formation/latest/dg/workflows-about.html)
+- [Data filtering and cell-level security in Lake Formation](https://docs.aws.amazon.com/lake-formation/latest/dg/data-filtering.html)
+- [Row-level security policies in AWS Lake Formation](https://docs.aws.amazon.com/lake-formation/latest/dg/rls-policies.html)
