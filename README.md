@@ -33,3 +33,7 @@ Gerencia de permissões no Lake Formation: [AWS Lake Formation: How it works](ht
     - [](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/RedshiftforDynamoDB-zero-etl.html)
     - [Zero-ETL integrations](https://docs.aws.amazon.com/redshift/latest/mgmt/zero-etl-using.html)
     - [DynamoDB zero-ETL integration with Amazon Redshift](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/RedshiftforDynamoDB-zero-etl.html)
+- [Open Table Formats Explained: Iceberg vs. Delta vs. Hudi](https://www.databricks.com/blog/open-table-formats)
+- [Redshift e PostgreSQL](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html)
+- [Build Your Data Lake on Amazon S3 - AWS Online Tech Talk](https://www.youtube.com/watch?v=ccIBYUjnt74) - Video de 2019, antes da existencia do Lake Formation
+- **S3 Select**, servico atualmente indisponivel. Ainda assim, vale conhecer isto: [Querying data without servers or databases using Amazon S3 Select](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)
