@@ -48,3 +48,7 @@ Gerencia de permissões no Lake Formation: [AWS Lake Formation: How it works](ht
 - [Blueprints e workflows no lake formation](https://docs.aws.amazon.com/lake-formation/latest/dg/workflows-about.html)
 - [Data filtering and cell-level security in Lake Formation](https://docs.aws.amazon.com/lake-formation/latest/dg/data-filtering.html)
 - [Row-level security policies in AWS Lake Formation](https://docs.aws.amazon.com/lake-formation/latest/dg/rls-policies.html)
+- [Cross-account data sharing](https://docs.aws.amazon.com/lake-formation/latest/dg/cross-account-TBAC.html)
+- [Amazon DataZone Now Generally Available – Collaborate on Data Projects across Organizational Boundarie](https://aws.amazon.com/blogs/aws/amazon-datazone-now-generally-available-collaborate-on-data-projects-across-organizational-boundaries/)
+- Pre-DataZone: [Design a data mesh architecture using AWS Lake Formation and AWS Glue](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
+- [Data Management at Scale: Modern Data Architecture with Data Mesh and Data Fabric](https://www.amazon.com.br/Data-Management-Scale-Modern-Architecture)
